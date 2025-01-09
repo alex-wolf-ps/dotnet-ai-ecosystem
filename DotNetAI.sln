@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftExtensionsAI", "MicrosoftExtensionsAI\MicrosoftExtensionsAI.csproj", "{88F0ED2C-BADF-4D74-A6A1-20AEF35844FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticKernel", "SemanticKernel\SemanticKernel.csproj", "{FBBBE8A8-482F-4745-A541-9DA08A75A62D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAIServices", "AzureAIServices\AzureAIServices.csproj", "{A9771507-08F8-4952-B18F-3BEC7EAFF760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonAzureAIServices", "NonAzureAIServices\NonAzureAIServices.csproj", "{749EBBF6-667C-4408-8F19-5A302E08A7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F0ED2C-BADF-4D74-A6A1-20AEF35844FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F0ED2C-BADF-4D74-A6A1-20AEF35844FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F0ED2C-BADF-4D74-A6A1-20AEF35844FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F0ED2C-BADF-4D74-A6A1-20AEF35844FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBBE8A8-482F-4745-A541-9DA08A75A62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBBE8A8-482F-4745-A541-9DA08A75A62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBBE8A8-482F-4745-A541-9DA08A75A62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBBE8A8-482F-4745-A541-9DA08A75A62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9771507-08F8-4952-B18F-3BEC7EAFF760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9771507-08F8-4952-B18F-3BEC7EAFF760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9771507-08F8-4952-B18F-3BEC7EAFF760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9771507-08F8-4952-B18F-3BEC7EAFF760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749EBBF6-667C-4408-8F19-5A302E08A7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749EBBF6-667C-4408-8F19-5A302E08A7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749EBBF6-667C-4408-8F19-5A302E08A7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749EBBF6-667C-4408-8F19-5A302E08A7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
